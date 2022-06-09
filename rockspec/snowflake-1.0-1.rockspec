@@ -2,7 +2,7 @@ package = "snowflake"
 version = "1.0-1"
 
 source = {
-	url = "git://github.com/stuartcarnie/lua-snowflake.git",
+	url = "git://github.com/stuartcarnie/lua-snowflake-5.4.git",
 	tag = "v1.0",
 }
 
@@ -14,7 +14,7 @@ description = {
 }
 
 dependencies = {
-	"lua >= 5.1",
+	"lua >= 5.4",
 }
 
 build = {
