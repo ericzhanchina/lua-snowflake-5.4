@@ -7,7 +7,7 @@ which supports ordered, distributed id generation.
 Installation
 ------------
 
-    $ luarocks install snowflake
+    $ luarocks-5.4 make rockspec/snowflake-1.0-1.rockspec
      
 Usage
 -----
